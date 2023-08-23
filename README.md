@@ -6,7 +6,8 @@ Hola, Soy Camila Jáuregui
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-j%C3%A1uregui-salinas-2851a0214) [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/camilapssss/?hl=es) [![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/kamila.jauregui.9/)
 
 
-## <img src=https://media.giphy.com/media/LM86giIFtSojfKzXTB/giphy.gifwidth="30px">&nbsp;***Acerca de mi***
+## <img src="https://media.giphy.com/media/LM86giIFtSojfKzXTB/giphy.gifwidth" width="30px">&nbsp;***Acerca de mi***
+
 
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/SqNi0Iq1RaIK3uFX4G/giphy.gif" />
 
